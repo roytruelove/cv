@@ -36,6 +36,13 @@ module.exports = (grunt)->
 						dest: 				'artifacts/img'
 						flatten: 			true
 					}
+					{
+						cwd: 					'lib'
+						src:					'**/*.js'
+						expand: 				true
+						dest: 				'artifacts/js'
+						flatten: 			true
+					}
 				]
 		less:
 			all:
