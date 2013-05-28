@@ -17,7 +17,13 @@ module.exports = (grunt)->
 						cwd: 					'src/html'
 						src:					'*.html'
 						expand: 				true
-						dest: 					'artifacts'
+						dest: 				'artifacts'
+					}
+					{
+						cwd: 					'src/js'
+						src:					'*.js'
+						expand: 				true
+						dest: 				'artifacts/js'
 					}
 				]
 			lib:
