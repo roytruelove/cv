@@ -13,17 +13,16 @@ Seeking a strategic role in a progressive and forward-looking environment, worki
 <hr>
 
 # Experience
-
 ## Dotdash Meredith (FKA Dotdash, about.com)
 ### Director, Java Development
-May 2017 → Feb 2021
+May 2017 → Feb 2021<br>
 *java, spring-boot, spring-mvc, ehcache, redis, kafka, javascript, docker*
 
-### Position Summary
+#### Position Summary
 
 Dotdash Meredith is the largest digital and print publisher in the US.  As the director of the 'globe-core' team, I was responsible for the server technology on top of which all traffic was rendered and served.  I was instrumental in both the internal and external growth of Dotdash, working with the business and tech teams to determine how best to evolve from a small company to a medium-sized company in as painless a way as possible.  During my tenure Dotdash expanded from 6 to 14 properties, with an 30% increase in unique monthly page views, from 70MM to 100MM.
 
-### Position Details - Responsibilities and Achievements
+#### Position Details - Responsibilities and Achievements
 * Lead developer of the 'globe-core' framework, our spring-based server and rendering engine.  The framework allowed Dotdash to consistently be amongst the fastest publishers worldwide.
 * Director of the 'globe-core' dev team, managing ~12 developers both local and remote, junior and senior.  Responsible for performance reviews, training, mentorship, delegation, and morale.  Many of my reports went on to be successful managers themselves.
 * Spearheaded the refactoring of globe-core from a legacy monolith to a modularized spring-boot library.  This gave the different properties the power to override and extend core functionality as needed while still maintaining our speed and security.  It also allowed us to go live with new/acquired properties within very short periods of time.
@@ -35,17 +34,17 @@ Dotdash Meredith is the largest digital and print publisher in the US.  As the d
 ## Droit Financial Technologies 
 
 ### Senior Architect / Developer
-Feb 2014 → Aug 2016
+Feb 2014 → Aug 2016<br>
 *java, spring, apache-camel, jms, activemq, lucene, ehcache, clojure, sql, mysql, oracle, spring-boot, spring-mvc, javascript, jsp, jenkins, docker*
 
-### Position Summary
+#### Position Summary
 
 [Droit Financial Technologies](http://droit.tech), through their Adept product, provide rule-based trading decision engines used by OTC derivative front-office and compliance teams globally, across all OTC asset classes, globally active CCP’s, SEF’s and all G20 aligned regulatory regimes, enabling sell-side firms to make compliant and optimal trading decisions.
 
-As lead developer / architect of the initial development team, I was instrumental in propelling the firm from a startup to the most trusted name in the space with multiple clients across North
-America, Europe, and Japan. My contributions were a critical factor in Droit winning [Risk Magazine's Sell Side Trading Technology of the Year](https://www.risk.net/awards/2442696/trading-technology-product-year-sell-side-droit-financial-technologies).
+As lead developer / architect of the initial development team, I was instrumental in propelling the firm from a startup to the most trusted name in the space with multiple clients across North America, Europe, and Japan. My contributions were a critical factor in Droit winning [Risk Magazine's Sell Side Trading Technology of the Year](https://www.risk.net/awards/2442696/trading-technology-product-year-sell-side-droit-financial-technologies).
 
-### Position Details - Responsibilities
+#### Position Details - Responsibilities
+
 * All aspects of full stack Spring-based Java enterprise development, including analysis, design, implementation, testing, delivery and maintenance phases
 * Acted as Droit's primary architect, responsible for the majority of the refactoring of the core product. These include:
   * A rewrite of the software's client-facing integration layer, moving from a tightly coupled Java API to a messaging-based API. This simplified installations, opened the door for non-Java clients, and allowed for seamless backwards compatibility as our product evolved
@@ -67,15 +66,15 @@ America, Europe, and Japan. My contributions were a critical factor in Droit win
 ## IHS Markit (MarkitSERV)
 
 ### Client-side Technologies - R&D and 'Evangelist'
-Sep 2012 → Feb 2014
+Sep 2012 → Feb 2014<br>
 *coffeescript, javascript, angularjs, spring-mvc, jackson, web-services, twitter-bootstrap, jasmine, git*
 
-### Position Summary
+#### Position Summary
 
 * [MarkitSERV](https://ihsmarkit.com/products/markitserv.html) provides a single gateway for OTC derivatives trade processing. They are an end-to-end solution for post-trade transaction management of credit, interest rate, equity and foreign exchange derivatives.
 * Historically, MarkitSERV's application interfaces have been either native C++ applications locally installed for all clients, or server-side-rendered web applications (JSPs) with little interactivity. During a 'lull' in my responsibilities, I offered to take on R&D of technologies that would keep us competitive with up-and-coming firms taking advantage of the disruption caused by new regulatory requirements. This became my full-time role.
 
-### Position Details - Responsibilities / Achievements
+#### Position Details - Responsibilities / Achievements
 * Researched cutting-edge web-based technologies to create a proposed 'stack' for all future MarkitSERV application interfaces. The stack was comprised of:
   * A web-service based API framework, based on AmazonES2's conventions. Designed and developed a functional reference implementation of this framework as an internally- shared library.
   * 'Twitter Bootstrap'-based css framework, customized to match existing MarkitSERV styles.
@@ -89,14 +88,14 @@ Sep 2012 → Feb 2014
 * Researched best practices around CI and source control (git) conventions, holding training sessions and creating reference documentation.
 
 ### Lead Developer / Architect - FX Clearing Connectors
-May 2011 → Sep 2012
+May 2011 → Sep 2012<br>
 *java, spring, spring-mvc, activemq, apache-camel, jenkins, git*
 
-### Position Summary 
+#### Position Summary 
 
 * The FX Clearing Connectors project defines a single interface between FXMatcher and all FX clearinghouses (CCPs), providing MarkitSERV FX clients with a single pipe for all FX trades, regardless of CCP.
 
-### Position Details - Responsibilities / Achievements
+#### Position Details - Responsibilities / Achievements
 
 * Team lead, head architect, and developer for MarkitSERV's FX Clearing Connectors project.
 * Refactored application to allow for additional CCPs to be supported quickly, independently of other CCP implementations.
@@ -105,14 +104,14 @@ May 2011 → Sep 2012
 * Successfully oversaw the launches of both the SGX and CME connectors.
 
 ### Business Analyst - Markit Trade Manager
-Oct 2009 → May 2011
+Oct 2009 → May 2011<br>
 *jruby, jira, confluence*
 
-### Position Summary 
+#### Position Summary 
 
 * Markit Trade Manager (MTM) provides a single entry point into MarkitSERV's confirmation and clearing services for buy-side clients. MTM can consume all OTC trades across asset classes, and route them to the appropriate MarkitSERV system (DSMatch, MarkitWire, paper flow, etc.) for confirmation and clearing by the sell-side.
 
-### Position Details - Responsibilities / Achievements
+#### Position Details - Responsibilities / Achievements
 
 * Lead analyst on MTM's Rates and Credit clearing requirements. These allowed buy-sides to painlessly meet Dodd-Frank clearing mandates by shielding them from disparate clearinghouse requirements.
 * Lead analyst for MTM's 'post trade event' build out, giving buy-sides increased flexibility in booking complicated novation / termination events.
@@ -129,20 +128,20 @@ Oct 2009 → May 2011
 ## Citadel Investment Group (Continued)
 
 ### Help and Training Analyst– Citadel Solutions Mar 2009 → Sep 2009
-*madcap, html, css, technical-writing*
+*madcap, html, css, technical-writing*<br>
 
-### Position Summary 
+#### Position Summary 
 * Citadel Solutions (acquired by Northern Trust) was a fund administrator responsible for the back-office operations of several major hedge funds, including Citadel Investment Group.  The ARK project (now known as Northern Trust Passport) was a full software stack covering all the entire breadth of fund administration, including cash transfers, P/L reports, subscriptions / redemptions, etc.
 
-### Position Details - Responsibilities / Achievements
+#### Position Details - Responsibilities / Achievements
 * Responsible for designing, launching, and gathering and writing all content for a state-of-the-art knowledge base and training program the ARK project.  The knowledge base efectively became a complete guide to hedge fund management processes.
-* Managed all subject-matter-expert relationships to collect, organize, write, and present domain knowledge used to create training and knowledge bases intended for both internal and
-client use.
+* Managed all subject-matter-expert relationships to collect, organize, write, and present domain knowledge used to create training and knowledge bases intended for both internal and client use.
 * Acted as liaison between business and development to ensure that functionality and user interfaces met business standards.
 
 ### Developer / Business Analyst – Client Services Team 
-Oct 2007 → Apr 2008
+Oct 2007 → Apr 2008<br>
 *vba, excel, perl*
+
 * Acted as interface between IT group and client account managers, ensuring that needs of clients were understood, implemented, and tested correctly by IT .
 * Tasked with becoming intimately involved with daily tasks of both the in-house team and those of our clients, with the goal of identifying process / data bottlenecks that could be resolved with IT involvement.
 * Because of my proficiency in bridging the gap between the business and IT, I was often pulled into unrelated projects to ensure that they gained traction.
@@ -151,69 +150,75 @@ Oct 2007 → Apr 2008
 
 ## Hedgespeed
 ### Lead Developer / Project Manager
-Sep 2006 → Mar 2007
+
+Sep 2006 → Mar 2007<br>
 *c#, biztalk, perl, msmq, nant, bugzilla, svn*
+
 * Lead analyst and developer for Hedgespeed’s integration layer, used to pull Stock Loan availability from Prime Brokers in both real-time and as a batch.
 * Designed the layer to be able to respond quickly to the addition of new brokers as well as sudden format changes, with minimal disruption to the production system.
 * Ensured that code closely followed existing Enterprise Integration Patterns (EIP) to conform to industry standards for integration architectures.
-* Responsible for enforcing software best practices on development team by improving unit testing, build process, bug tracking, and source control management. This substantially decreased both the efect on ‘non-coding’ time for the team and the deployment time, allowing for quicker turn-around in testing.
+* Responsible for enforcing software best practices on development team by improving unit testing, build process, bug tracking, and source control management. This substantially decreased both the effect on ‘non-coding’ time for the team and the deployment time, allowing for quicker turn-around in testing.
 
 ## Citadel Investment Group
 
 ### Team Lead – Counterparty Communications Team
-Mar 2005 → Mar 2006
+
+Mar 2005 → Mar 2006<br>
 *perl, java*
+
 * Charged with managing a team that previously had no lead; created processes, documentation, and acted as reporting layer to upper managemeTnht.e se changed ‘legitimized’ the team in the eyes of management, created a workable support / development balance for team members, and improved the relationship between the team and their business clients.  Managed data communications relationships with new counterparties, and ensured that all data necessary for backf iocef operations was available and delivered consistently by those counterparties.
 * Managed team responsible for incoming and outgoing communications with counterparties (hundreds of files daily).  Maintained and updated ‘PBComm’ system, used to pull files from various transport layers (FT, Pemail, MQ, etc), parse the data in those files (in over 700 dfief rent formats), and load the data into our system in a timely manne,r usually before trading hours.
 * Maintained business rules on data parsing, used to ensure that data was accurately ‘translated’ between the counterpasrt ys’ystem and our own.
 
 ### Lead Analyst / Developer– OTC Confirmations
-Oct 2004 → Mar 2005
+Oct 2004 → Mar 2005<br>
 *mq, xml, c++*
+
 * Designed and developed OTC Trade confirmation process for IRSs, CDSs, OTC Options, and Variance Swaps using DTCC’ s Deriv/SERV electronic matching system, allowing for significant trade volume increases, as well as reduced operational risk.
 * Engineered DTCC software to allow for quick, dynamic addition of new OTC products, making Citadel the technology driver by consistently being the first DTCC member to test and go live with new products (notablyI nterest Rate Swaps).
 * Was an active participant in DTCC working group with various buy-side and sell-side firms to drive the direction of testing and future products.
 * Sole developer / analyst on the project, responsible for all business analysis, requirements gathering, development, testing, maintenance, and enhancements.
-* Worked with members of the DSWG ISDA working group to design and implement the DSWG FPML extension, intended as a standard file format used for OTC product
-reconciliation.
+* Worked with members of the DSWG ISDA working group to design and implement the DSWG FPML extension, intended as a standard file format used for OTC product reconciliation.
 * Automated CDS payment reconciliations using DTCCs’ Deriv/SERV.
 
-### Software Developer – Legal and Compliance – Citadel Investment Group May 2004 → Oct 2004
+### Software Developer – Legal and Compliance
+May 2004 → Oct 2004<br>
 *perl, java*
+
 * Responsible for creating and maintaining feeds from government agencies for anti-money laundering, terrorism, etc, to ensure government compliance on a daily basis.
 * Implemented Scritturas’ contract tracking software, allowing the team to react quickly to provision triggers in contracts (eg NVA decline events, key man events, etc).
 * Maintained Insider Trading software (iTrade). Responsible for creating all integration points (all trade feeds and all employee broker statements), as well as configuring the software to enforce the rules of our insider trading policies.
 * Responsible for various accounting reports, used by the legal team to reduce cost of outside council.
 
-### Software Developer - Energy Back Office – Citadel Investment Group Feb 2004 → May 2004
+### Software Developer - Energy Back Office
+Feb 2004 → May 2004<br>
 *perl*
-* Designed and implemented integration with the ICE eConfirm system, allowing for STP confirmation of all eligible Energy trades. This enabled a 300% trade volume increase, and
-was the quickest implementation of the eConfirm product to date.
-* Designed and implemented automated paper-based ISDA OTC confirmation system using ScritturaR.e sponsible for all specification gathering from front-end users as well as
-traders. This system removed the manual process of drafting, faxing, and scanning several hundred trade confirmations per week.
+
+* Designed and implemented integration with the ICE eConfirm system, allowing for STP confirmation of all eligible Energy trades. This enabled a 300% trade volume increase, and was the quickest implementation of the eConfirm product to date.
+* Designed and implemented automated paper-based ISDA OTC confirmation system using ScritturaR.e sponsible for all specification gathering from front-end users as well as traders. This system removed the manual process of drafting, faxing, and scanning several hundred trade confirmations per week.
 
 ## Scrittura
 
 ### Client Services Software Engineer
-Aug 2002 → Feb 2004
+Aug 2002 → Feb 2004<br>
 *java, ejb-3.0, weblogic*
 
 * Redesigned integration betweenS crittura’s document retention and document generaiton modules to allow for decoupling and pluggable retention systems.
-* Managed several client implementations of the Scrittura software at both buy-side and sell-side firms, in some cases enabling full STP of the OTC trade from fronfitc oef through to
-confirmation.
-* Responsible for implementing best-practices with regard to build scripts / environment, automated builds, and source contrTolh. ese changes created a one-click build system,
-allowing us to quickly upgrade clients to new builds using configuration files(.c vs, ant)
+* Managed several client implementations of the Scrittura software at both buy-side and sell-side firms, in some cases enabling full STP of the OTC trade from fronfitc oef through to confirmation.
+* Responsible for implementing best-practices with regard to build scripts / environment, automated builds, and source contrTolh. ese changes created a one-click build system, allowing us to quickly upgrade clients to new builds using configuration files(.c vs, ant)
 * Responsible for on-site client training and support at client firms.
 
 ## pulver.com
-Software Engineer – pulver.com 2000 → Mar 2002
-java, oracle, swing, ejb, web-services
+### Software Engineer
+June 2000 → Mar 2002<br>
+*java, oracle, swing, ejb, web-services*
+
 * Converted flat-file legacy company database to relational database.
 * Created complete EJB interface to new database. (Java, EJB 1.2)
 * Wrote and implemented proprietary HTTP based protocols for legacy AWK-based systems to communicate with new EJB systems. (Java, Servlets,o Tmcat)
 * Redesigned “slides.pulver.com” for integration with legacy systems. Converted the site to a fee-based service using Verisign’s Payflow Link. (JSP / Servlets, EJB 1.2, Struts)
 * Created app for “scrubbing” databases in order to impose relational constraints (Java Swing)
 
-## Education
-* Bachelor of Science - Computer Science – Binghamton University 1996 → 2001 (Dean's List)
-* Bachelor of Arts - Philosophy – Binghamton University 1996 → 2001 (Dean's List)
+# Education
+* **Bachelor of Science** - Computer Science – Binghamton University 1996 → 2001 (Dean's List)
+* **Bachelor of Arts** - Philosophy – Binghamton University 1996 → 2001 (Dean's List)
