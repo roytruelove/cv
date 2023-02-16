@@ -4,7 +4,9 @@
   "description": "My resume",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prebuild": "mkdir -p target",
+    "build": "markdown-it -o ./target/resume.html ./src/resume.md",
+    "clean": "rm -Rf ./target"
   },
   "repository": {
     "type": "git",
@@ -13,9 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-markdown": "^7.0.0"
-  },
-  "_comment_": "Unclear why I need to say that this is a 'module' when it isn't.",
-  "type": "module"
+    "handlebars": "^4.7.7",
+    "markdown-it": "^13.0.1"
+  }
 }
