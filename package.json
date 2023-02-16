@@ -16,5 +16,6 @@
     "gulp": "^4.0.2",
     "gulp-markdown": "^7.0.0"
   },
+  "_comment_": "Unclear why I need to say that this is a 'module' when it isn't.",
   "type": "module"
 }
