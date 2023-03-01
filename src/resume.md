@@ -100,7 +100,7 @@ May 2011 → Sep 2012<br>
 * Team lead, head architect, and developer for MarkitSERV's FX Clearing Connectors project.
 * Refactored application to allow for additional CCPs to be supported quickly, independently of other CCP implementations.
 * Heavy proponent of testing and CI, making this project the first to leverage fully automated unit and integration tests, as well as daily builds and one-click deployments.
-* Innovated application mgmt by implementing a Groovy console for all non-daily administrative tasks as opposed to exposing those functions on a UI. This allowed us to go live weeks ahead of time while still providing the same level of administrative power.
+* Innovated application management by implementing a Groovy console for all non-daily administrative tasks as opposed to exposing those functions on a UI. This allowed us to go live weeks ahead of time while still providing the same level of administrative power.
 * Successfully oversaw the launches of both the SGX and CME connectors.
 
 ### Business Analyst - Markit Trade Manager
@@ -117,7 +117,7 @@ Oct 2009 → May 2011<br>
 * Lead analyst for MTM's 'post trade event' build out, giving buy-sides increased flexibility in booking complicated novation / termination events.
 * Lead analyst on MTM's Commodities build out, allowing buy-sides to route OTC commodities trades to MarkitWire for sell-side users to confirm.
 * Responsible for 'owning' a given high-level requirement, including breaking it down into smaller components, creating test / use cases, fully understanding business requirements and communicating them to Development.
-* Leveraged development background to find common ground between Product and Development teams when requirements were difficult / dangerous to achieve in a given timeframe.
+* Leveraged development background to find common ground between Product and Development teams when requirements were difficult / dangerous to achieve in a given time frame.
 * Spearheaded and implemented firm-wide documentation repository using Confluence. Responsible for organization of Confluence structure across all teams, as well as providing training material and hands-on demonstrations.
 * Revamped issue tracking process in JIRA, ensuring that each issue was vetted by the Analysis, Development, and Testing teams before making it into Production.
 * Developed a standardized specification format creating consistent functional and technical specs for all MTM projects. This helped to ensure that no information necessary for the development team was omitted.
@@ -134,7 +134,7 @@ Oct 2009 → May 2011<br>
 * Citadel Solutions (acquired by Northern Trust) was a fund administrator responsible for the back-office operations of several major hedge funds, including Citadel Investment Group.  The ARK project (now known as Northern Trust Passport) was a full software stack covering all the entire breadth of fund administration, including cash transfers, P/L reports, subscriptions / redemptions, etc.
 
 #### Position Details - Responsibilities / Achievements
-* Responsible for designing, launching, and gathering and writing all content for a state-of-the-art knowledge base and training program the ARK project.  The knowledge base efectively became a complete guide to hedge fund management processes.
+* Responsible for designing, launching, and gathering and writing all content for a state-of-the-art knowledge base and training program the ARK project.  The knowledge base effectively became a complete guide to hedge fund management processes.
 * Managed all subject-matter-expert relationships to collect, organize, write, and present domain knowledge used to create training and knowledge bases intended for both internal and client use.
 * Acted as liaison between business and development to ensure that functionality and user interfaces met business standards.
 
@@ -166,16 +166,16 @@ Sep 2006 → Mar 2007<br>
 Mar 2005 → Mar 2006<br>
 *perl, java*
 
-* Charged with managing a team that previously had no lead; created processes, documentation, and acted as reporting layer to upper managemeTnht.e se changed ‘legitimized' the team in the eyes of management, created a workable support / development balance for team members, and improved the relationship between the team and their business clients.  Managed data communications relationships with new counterparties, and ensured that all data necessary for backf iocef operations was available and delivered consistently by those counterparties.
-* Managed team responsible for incoming and outgoing communications with counterparties (hundreds of files daily).  Maintained and updated ‘PBComm' system, used to pull files from various transport layers (FT, Pemail, MQ, etc), parse the data in those files (in over 700 dfief rent formats), and load the data into our system in a timely manne,r usually before trading hours.
-* Maintained business rules on data parsing, used to ensure that data was accurately ‘translated' between the counterpasrt ys'ystem and our own.
+* Charged with managing a team that previously had no lead; created processes, documentation, and acted as reporting layer to upper management.  This changed ‘legitimized' the team in the eyes of management, created a workable support / development balance for team members, and improved the relationship between the team and their business clients.  Managed data communications relationships with new counterparties, and ensured that all data necessary for back office operations was available and delivered consistently by those counterparties.
+* Managed team responsible for incoming and outgoing communications with counterparties (hundreds of files daily).  Maintained and updated ‘PBComm' system, used to pull files from various transport layers (FTP, email, MQ, etc), parse the data in those files (in over 700 different formats), and load the data into our system in a timely manner usually before trading hours.
+* Maintained business rules on data parsing, used to ensure that data was accurately ‘translated' between the counterparty's system and our own.
 
 ### Lead Analyst / Developer- OTC Confirmations
 Oct 2004 → Mar 2005<br>
 *mq, xml, c++*
 
-* Designed and developed OTC Trade confirmation process for IRSs, CDSs, OTC Options, and Variance Swaps using DTCC' s Deriv/SERV electronic matching system, allowing for significant trade volume increases, as well as reduced operational risk.
-* Engineered DTCC software to allow for quick, dynamic addition of new OTC products, making Citadel the technology driver by consistently being the first DTCC member to test and go live with new products (notablyI nterest Rate Swaps).
+* Designed and developed OTC Trade confirmation process for IRSs, CDSs, OTC Options, and Variance Swaps using DTCC's Deriv/SERV electronic matching system, allowing for significant trade volume increases, as well as reduced operational risk.
+* Engineered DTCC software to allow for quick, dynamic addition of new OTC products, making Citadel the technology driver by consistently being the first DTCC member to test and go live with new products (notably Interest Rate Swaps).
 * Was an active participant in DTCC working group with various buy-side and sell-side firms to drive the direction of testing and future products.
 * Sole developer / analyst on the project, responsible for all business analysis, requirements gathering, development, testing, maintenance, and enhancements.
 * Worked with members of the DSWG ISDA working group to design and implement the DSWG FPML extension, intended as a standard file format used for OTC product reconciliation.
@@ -186,7 +186,7 @@ May 2004 → Oct 2004<br>
 *perl, java*
 
 * Responsible for creating and maintaining feeds from government agencies for anti-money laundering, terrorism, etc, to ensure government compliance on a daily basis.
-* Implemented Scritturas' contract tracking software, allowing the team to react quickly to provision triggers in contracts (eg NVA decline events, key man events, etc).
+* Implemented Scrittura's contract tracking software, allowing the team to react quickly to provision triggers in contracts (eg NVA decline events, key man events, etc).
 * Maintained Insider Trading software (iTrade). Responsible for creating all integration points (all trade feeds and all employee broker statements), as well as configuring the software to enforce the rules of our insider trading policies.
 * Responsible for various accounting reports, used by the legal team to reduce cost of outside council.
 
@@ -195,7 +195,7 @@ Feb 2004 → May 2004<br>
 *perl*
 
 * Designed and implemented integration with the ICE eConfirm system, allowing for STP confirmation of all eligible Energy trades. This enabled a 300% trade volume increase, and was the quickest implementation of the eConfirm product to date.
-* Designed and implemented automated paper-based ISDA OTC confirmation system using ScritturaR.e sponsible for all specification gathering from front-end users as well as traders. This system removed the manual process of drafting, faxing, and scanning several hundred trade confirmations per week.
+* Designed and implemented automated paper-based ISDA OTC confirmation system using Scrittura.  Responsible for all specification gathering from front-end users as well as traders. This system removed the manual process of drafting, faxing, and scanning several hundred trade confirmations per week.
 
 ## Scrittura
 
@@ -203,9 +203,9 @@ Feb 2004 → May 2004<br>
 Aug 2002 → Feb 2004<br>
 *java, ejb-3.0, weblogic*
 
-* Redesigned integration betweenS crittura's document retention and document generaiton modules to allow for decoupling and pluggable retention systems.
-* Managed several client implementations of the Scrittura software at both buy-side and sell-side firms, in some cases enabling full STP of the OTC trade from fronfitc oef through to confirmation.
-* Responsible for implementing best-practices with regard to build scripts / environment, automated builds, and source contrTolh. ese changes created a one-click build system, allowing us to quickly upgrade clients to new builds using configuration files(.c vs, ant)
+* Redesigned integration between Scrittura's document retention and document generation modules to allow for decoupling and pluggable retention systems.
+* Managed several client implementations of the Scrittura software at both buy-side and sell-side firms, in some cases enabling full STP of the OTC trade from front office through to confirmation.
+* Responsible for implementing best-practices with regard to build scripts / environment, automated builds, and source Control.  These changes created a one-click build system, allowing us to quickly upgrade clients to new builds using configuration files(.cvs, ant)
 * Responsible for on-site client training and support at client firms.
 
 ## pulver.com
@@ -215,7 +215,7 @@ June 2000 → Mar 2002<br>
 
 * Converted flat-file legacy company database to relational database.
 * Created complete EJB interface to new database. (Java, EJB 1.2)
-* Wrote and implemented proprietary HTTP based protocols for legacy AWK-based systems to communicate with new EJB systems. (Java, Servlets,o Tmcat)
+* Wrote and implemented proprietary HTTP based protocols for legacy AWK-based systems to communicate with new EJB systems. (Java, Servlets,Tomcat)
 * Redesigned “slides.pulver.com” for integration with legacy systems. Converted the site to a fee-based service using Verisign's Payflow Link. (JSP / Servlets, EJB 1.2, Struts)
 * Created app for “scrubbing” databases in order to impose relational constraints (Java Swing)
 
