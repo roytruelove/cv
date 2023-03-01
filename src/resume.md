@@ -39,7 +39,7 @@ Feb 2014 → Aug 2016<br>
 
 #### Position Summary
 
-[Droit Financial Technologies](http://droit.tech), through their Adept product, provide rule-based trading decision engines used by OTC derivative front-office and compliance teams globally, across all OTC asset classes, globally active CCP’s, SEF’s and all G20 aligned regulatory regimes, enabling sell-side firms to make compliant and optimal trading decisions.
+[Droit Financial Technologies](http://droit.tech), through their Adept product, provide rule-based trading decision engines used by OTC derivative front-office and compliance teams globally, across all OTC asset classes, globally active CCP's, SEF's and all G20 aligned regulatory regimes, enabling sell-side firms to make compliant and optimal trading decisions.
 
 As lead developer / architect of the initial development team, I was instrumental in propelling the firm from a startup to the most trusted name in the space with multiple clients across North America, Europe, and Japan. My contributions were a critical factor in Droit winning [Risk Magazine's Sell Side Trading Technology of the Year](https://www.risk.net/awards/2442696/trading-technology-product-year-sell-side-droit-financial-technologies).
 
@@ -121,13 +121,13 @@ Oct 2009 → May 2011<br>
 * Spearheaded and implemented firm-wide documentation repository using Confluence. Responsible for organization of Confluence structure across all teams, as well as providing training material and hands-on demonstrations.
 * Revamped issue tracking process in JIRA, ensuring that each issue was vetted by the Analysis, Development, and Testing teams before making it into Production.
 * Developed a standardized specification format creating consistent functional and technical specs for all MTM projects. This helped to ensure that no information necessary for the development team was omitted.
-* Developed ‘investigation’ scripts to integrate with the MarkitWire API. These allowed ‘deep dives’ into the API, facilitating the writing of technical specs defining the integration between MTM and MarkitWire.
+* Developed ‘investigation' scripts to integrate with the MarkitWire API. These allowed ‘deep dives' into the API, facilitating the writing of technical specs defining the integration between MTM and MarkitWire.
 * Quickly became the point person for most internal MTM issues / questions across markitSERV teams (Support, Testing, Implementation, etc.)
 * Accompanied sales team on client meetings, playing the role of MTM's subject matter expert.
 
 ## Citadel Investment Group (Continued)
 
-### Help and Training Analyst– Citadel Solutions Mar 2009 → Sep 2009
+### Help and Training Analyst- Citadel Solutions Mar 2009 → Sep 2009
 *madcap, html, css, technical-writing*<br>
 
 #### Position Summary 
@@ -138,15 +138,15 @@ Oct 2009 → May 2011<br>
 * Managed all subject-matter-expert relationships to collect, organize, write, and present domain knowledge used to create training and knowledge bases intended for both internal and client use.
 * Acted as liaison between business and development to ensure that functionality and user interfaces met business standards.
 
-### Developer / Business Analyst – Client Services Team 
+### Developer / Business Analyst - Client Services Team 
 Oct 2007 → Apr 2008<br>
 *vba, excel, perl*
 
 * Acted as interface between IT group and client account managers, ensuring that needs of clients were understood, implemented, and tested correctly by IT .
 * Tasked with becoming intimately involved with daily tasks of both the in-house team and those of our clients, with the goal of identifying process / data bottlenecks that could be resolved with IT involvement.
 * Because of my proficiency in bridging the gap between the business and IT, I was often pulled into unrelated projects to ensure that they gained traction.
-* Responsible for creating quick report and reconciliation implementations to satisfy immediate client demand while IT implemented more permanent solutions. This removed the technology bottleneck and allowed the business to grow at the same pace as our clients’.
-* Designed and implemented the ‘Trade Upload Tool’, used by all clients to manually upload daily trades to Citadel Solutions. The tool provided clients built-in documentation and immediate data verification, and was written in such a way that it could be quickly extended by the business without the need for IT ,allowing for quick turnaround of new asset classes.
+* Responsible for creating quick report and reconciliation implementations to satisfy immediate client demand while IT implemented more permanent solutions. This removed the technology bottleneck and allowed the business to grow at the same pace as our clients'.
+* Designed and implemented the ‘Trade Upload Tool', used by all clients to manually upload daily trades to Citadel Solutions. The tool provided clients built-in documentation and immediate data verification, and was written in such a way that it could be quickly extended by the business without the need for IT ,allowing for quick turnaround of new asset classes.
 
 ## Hedgespeed
 ### Lead Developer / Project Manager
@@ -154,39 +154,39 @@ Oct 2007 → Apr 2008<br>
 Sep 2006 → Mar 2007<br>
 *c#, biztalk, perl, msmq, nant, bugzilla, svn*
 
-* Lead analyst and developer for Hedgespeed’s integration layer, used to pull Stock Loan availability from Prime Brokers in both real-time and as a batch.
+* Lead analyst and developer for Hedgespeed's integration layer, used to pull Stock Loan availability from Prime Brokers in both real-time and as a batch.
 * Designed the layer to be able to respond quickly to the addition of new brokers as well as sudden format changes, with minimal disruption to the production system.
 * Ensured that code closely followed existing Enterprise Integration Patterns (EIP) to conform to industry standards for integration architectures.
-* Responsible for enforcing software best practices on development team by improving unit testing, build process, bug tracking, and source control management. This substantially decreased both the effect on ‘non-coding’ time for the team and the deployment time, allowing for quicker turn-around in testing.
+* Responsible for enforcing software best practices on development team by improving unit testing, build process, bug tracking, and source control management. This substantially decreased both the effect on ‘non-coding' time for the team and the deployment time, allowing for quicker turn-around in testing.
 
 ## Citadel Investment Group
 
-### Team Lead – Counterparty Communications Team
+### Team Lead - Counterparty Communications Team
 
 Mar 2005 → Mar 2006<br>
 *perl, java*
 
-* Charged with managing a team that previously had no lead; created processes, documentation, and acted as reporting layer to upper managemeTnht.e se changed ‘legitimized’ the team in the eyes of management, created a workable support / development balance for team members, and improved the relationship between the team and their business clients.  Managed data communications relationships with new counterparties, and ensured that all data necessary for backf iocef operations was available and delivered consistently by those counterparties.
-* Managed team responsible for incoming and outgoing communications with counterparties (hundreds of files daily).  Maintained and updated ‘PBComm’ system, used to pull files from various transport layers (FT, Pemail, MQ, etc), parse the data in those files (in over 700 dfief rent formats), and load the data into our system in a timely manne,r usually before trading hours.
-* Maintained business rules on data parsing, used to ensure that data was accurately ‘translated’ between the counterpasrt ys’ystem and our own.
+* Charged with managing a team that previously had no lead; created processes, documentation, and acted as reporting layer to upper managemeTnht.e se changed ‘legitimized' the team in the eyes of management, created a workable support / development balance for team members, and improved the relationship between the team and their business clients.  Managed data communications relationships with new counterparties, and ensured that all data necessary for backf iocef operations was available and delivered consistently by those counterparties.
+* Managed team responsible for incoming and outgoing communications with counterparties (hundreds of files daily).  Maintained and updated ‘PBComm' system, used to pull files from various transport layers (FT, Pemail, MQ, etc), parse the data in those files (in over 700 dfief rent formats), and load the data into our system in a timely manne,r usually before trading hours.
+* Maintained business rules on data parsing, used to ensure that data was accurately ‘translated' between the counterpasrt ys'ystem and our own.
 
-### Lead Analyst / Developer– OTC Confirmations
+### Lead Analyst / Developer- OTC Confirmations
 Oct 2004 → Mar 2005<br>
 *mq, xml, c++*
 
-* Designed and developed OTC Trade confirmation process for IRSs, CDSs, OTC Options, and Variance Swaps using DTCC’ s Deriv/SERV electronic matching system, allowing for significant trade volume increases, as well as reduced operational risk.
+* Designed and developed OTC Trade confirmation process for IRSs, CDSs, OTC Options, and Variance Swaps using DTCC' s Deriv/SERV electronic matching system, allowing for significant trade volume increases, as well as reduced operational risk.
 * Engineered DTCC software to allow for quick, dynamic addition of new OTC products, making Citadel the technology driver by consistently being the first DTCC member to test and go live with new products (notablyI nterest Rate Swaps).
 * Was an active participant in DTCC working group with various buy-side and sell-side firms to drive the direction of testing and future products.
 * Sole developer / analyst on the project, responsible for all business analysis, requirements gathering, development, testing, maintenance, and enhancements.
 * Worked with members of the DSWG ISDA working group to design and implement the DSWG FPML extension, intended as a standard file format used for OTC product reconciliation.
-* Automated CDS payment reconciliations using DTCCs’ Deriv/SERV.
+* Automated CDS payment reconciliations using DTCCs' Deriv/SERV.
 
-### Software Developer – Legal and Compliance
+### Software Developer - Legal and Compliance
 May 2004 → Oct 2004<br>
 *perl, java*
 
 * Responsible for creating and maintaining feeds from government agencies for anti-money laundering, terrorism, etc, to ensure government compliance on a daily basis.
-* Implemented Scritturas’ contract tracking software, allowing the team to react quickly to provision triggers in contracts (eg NVA decline events, key man events, etc).
+* Implemented Scritturas' contract tracking software, allowing the team to react quickly to provision triggers in contracts (eg NVA decline events, key man events, etc).
 * Maintained Insider Trading software (iTrade). Responsible for creating all integration points (all trade feeds and all employee broker statements), as well as configuring the software to enforce the rules of our insider trading policies.
 * Responsible for various accounting reports, used by the legal team to reduce cost of outside council.
 
@@ -203,7 +203,7 @@ Feb 2004 → May 2004<br>
 Aug 2002 → Feb 2004<br>
 *java, ejb-3.0, weblogic*
 
-* Redesigned integration betweenS crittura’s document retention and document generaiton modules to allow for decoupling and pluggable retention systems.
+* Redesigned integration betweenS crittura's document retention and document generaiton modules to allow for decoupling and pluggable retention systems.
 * Managed several client implementations of the Scrittura software at both buy-side and sell-side firms, in some cases enabling full STP of the OTC trade from fronfitc oef through to confirmation.
 * Responsible for implementing best-practices with regard to build scripts / environment, automated builds, and source contrTolh. ese changes created a one-click build system, allowing us to quickly upgrade clients to new builds using configuration files(.c vs, ant)
 * Responsible for on-site client training and support at client firms.
@@ -216,9 +216,9 @@ June 2000 → Mar 2002<br>
 * Converted flat-file legacy company database to relational database.
 * Created complete EJB interface to new database. (Java, EJB 1.2)
 * Wrote and implemented proprietary HTTP based protocols for legacy AWK-based systems to communicate with new EJB systems. (Java, Servlets,o Tmcat)
-* Redesigned “slides.pulver.com” for integration with legacy systems. Converted the site to a fee-based service using Verisign’s Payflow Link. (JSP / Servlets, EJB 1.2, Struts)
+* Redesigned “slides.pulver.com” for integration with legacy systems. Converted the site to a fee-based service using Verisign's Payflow Link. (JSP / Servlets, EJB 1.2, Struts)
 * Created app for “scrubbing” databases in order to impose relational constraints (Java Swing)
 
 # Education
-* **Bachelor of Science** - Computer Science – Binghamton University 1996 → 2001 (Dean's List)
-* **Bachelor of Arts** - Philosophy – Binghamton University 1996 → 2001 (Dean's List)
+* **Bachelor of Science** - Computer Science - Binghamton University 1996 → 2001 (Dean's List)
+* **Bachelor of Arts** - Philosophy - Binghamton University 1996 → 2001 (Dean's List)
