@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prebuild": "mkdir -p target/tmp && mkdir -p target/dist",
-    "build": "markdown-it -o ./target/tmp/resume.html ./src/resume.md",
+    "build": "markdown-it -o ./target/tmp/resume-body.html ./src/resume.md",
     "clean": "rm -Rf ./target"
   },
   "repository": {
