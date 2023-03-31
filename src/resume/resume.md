@@ -1,3 +1,6 @@
+---
+layout: resume.hbs
+---
 # Roy Truelove
 ## Technology Strategist
 +49 176 643 52325<br>

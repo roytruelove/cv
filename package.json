@@ -1,12 +1,11 @@
 {
   "name": "roytruelove-resume",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "My resume",
   "main": "index.js",
   "scripts": {
-    "prebuild": "mkdir -p target/tmp && mkdir -p target/dist",
-    "build": "markdown-it -o ./target/tmp/resume-body.html ./src/resume.md",
-    "clean": "rm -Rf ./target"
+    "build": "npx @11ty/eleventy",
+    "watch": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
@@ -15,7 +14,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "markdown-it": "^13.0.1",
-    "taft": "^0.8.0"
+    "@11ty/eleventy": "^2.0.1"
   }
 }
