@@ -1,11 +1,16 @@
 ---
 layout: resume.hbs
 ---
+<div class="resume-header">
+
 # Roy Truelove
 ## Technology Strategist
 +49 176 643 52325<br>
 roytruelove@gmail.com
 <hr>
+
+</div>
+<div class="resume-summary">
 
 # Summary
 
@@ -14,6 +19,9 @@ Well respected, resourceful, passionate software development partner with over 2
 Seeking a strategic role in a progressive and forward-looking environment, working with innovative, dynamic people.
 
 <hr>
+
+</div>
+<div class="resume-experience">
 
 # Experience
 ## Dotdash Meredith (FKA Dotdash, about.com)
@@ -222,6 +230,11 @@ June 2000 → Mar 2002<br>
 * Redesigned “slides.pulver.com” for integration with legacy systems. Converted the site to a fee-based service using Verisign's Payflow Link. (JSP / Servlets, EJB 1.2, Struts)
 * Created app for “scrubbing” databases in order to impose relational constraints (Java Swing)
 
+</div>
+<div class="resume-education">
+
 # Education
 * **Bachelor of Science** - Computer Science - Binghamton University 1996 → 2001 (Dean's List)
 * **Bachelor of Arts** - Philosophy - Binghamton University 1996 → 2001 (Dean's List)
+
+</div>
