@@ -18,6 +18,11 @@ Well respected, resourceful, passionate software development partner with over 2
 
 Seeking a strategic role in a progressive and forward-looking environment, working with innovative, dynamic people.
 
+(chat GPT version)
+A highly regarded, resourceful software development leader with over 20 years of experience in delivering full-stack enterprise solutions. Committed to delivering high-quality, value-rich, human-focused products. Recognized for formidable development and management abilities in diverse environments. Excel at finding pragmatic solutions to immediate issues without losing sight of strategic objectives. A consistent catalyst for significant organizational changes.
+
+Pursuing a strategic role in an innovative and future-oriented environment, working with dynamic people.
+
 <hr>
 
 </div>
